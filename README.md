@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadlahiru&label=Profile%20views&color=0e75b6&style=flat" alt="prasadlahiru" /> </p>
 
-- 📫 How to reach me **lahirumu98@gmail.com**
+- 📫 How to reach me **lahirumu98@gmail.com** 
+
+🌱 I’m currently learning **ReactJs**
+
+- 💬 Ask me about **Java, Python, HTML, CSS, Javascript, PHP, C#, C, ReactJs, MongoDB, Mysql
 
 - ⚡ Fun fact **I am funny**
 
@@ -22,16 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadlahiru&show_icons=true&locale=en&layout=compact" alt="prasadlahiru" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=prasadlahiru&theme=react&hide_border=false)<br/>
+<p>&nbsp;</p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=prasadlahiru&theme=city_light&hide_border=false)<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadlahiru&show_icons=true&locale=en" alt="prasadlahiru" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
