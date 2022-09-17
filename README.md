@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **lahirumu98@gmail.com** 
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Java, Python, HTML, CSS, Javascript, PHP, C#, C, ReactJs, MongoDB, Mysql**
 
